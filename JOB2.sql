@@ -1,7 +1,7 @@
 
 create database StudentResultDB
 go
-use StudentResultDBnew1
+use StudentResultDB
 --part 1
 create table Department 
 ( DepartmentId int Identity(1,1) primary key,
